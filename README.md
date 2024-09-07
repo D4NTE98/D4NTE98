@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Welcome!</mark></h1>
+<h5 align="center"><a href="https://d4tech.pl/">WEBSITE</a></h5>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=demon981&label=Profile%20views&color=0e75b6&style=flat" alt="bbalduzz" /> </p>
 
-<!--
-**D4NTE98/D4NTE98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class D4NTE:
+    def __init__(self):
+        self.name = 'Maciej'
+        self.nick = 'D4NTE'
+    
+    def whoami(self):
+        self.home = 'PL'
+        self.year = 1998
+        self.pet = 'Belgian Malinois'
+    
+    def skills(self):
+        self.mainlanguage = 'javascript'
+        self.languages = ['typescript', 'react', 'c#', 'python', 'java', 'c++', 'php', 'html', 'css', 'lua']
+        
+me = D4NTE()
+```
