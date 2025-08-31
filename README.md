@@ -12,23 +12,23 @@
 ```python
 class D4NTE:
     def __init__(self):
-        self.imie = 'Maciej'
+        self.name = 'Maciej'
         self.nick = 'D4NTE'
-        self.kraj = 'Polska'
-        self.rok_urodzenia = 1998
-        self.ulubione_zwierze = 'Belgian Malinois'
+        self.from = 'Polska'
+        self.year = 1998
+        self.pet = 'Belgian Malinois'
     
-    def kim_jestem(self):
+    def me(self):
         return f"Nazywam się {self.imie} ({self.nick}) i pochodzę z {self.kraj}."
     
-    def umiejetnosci(self):
-        self.jezyki_programowania = [
+    def skills(self):
+        self.langs = [
             'JavaScript', 'TypeScript', 'React', 'Vue', 'Node.js',
             'C#', 'C++', 'Java', 'Python', 'PHP', 'Lua',
             'HTML', 'CSS', 'CoffeeScript', 'Go',
             'MySQL', 'SQLite', 'JSON'
         ]
-        return self.jezyki_programowania
+        return self.langs
 
 me = D4NTE()
 ```
