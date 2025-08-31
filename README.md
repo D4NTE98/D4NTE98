@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=demon981&label=Wyświetlenia%20profilu&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://progress-bar.dev/95/?title=JavaScript&color=F7DF1E" />
-  <img src="https://progress-bar.dev/85/?title=React&color=61DAFB" />
-  <img src="https://progress-bar.dev/75/?title=Python&color=3776AB" />
-</p>
-
 
 ---
 
