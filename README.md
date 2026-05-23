@@ -99,6 +99,12 @@ Multi-purpose Discord bot with database integration and custom systems.
 ### Web Games
 Interactive browser games created with JavaScript and HTML5.
 
+### FiveM resources named d4t, for example:
+- d4tCore (https://github.com/D4NTE98/d4tCore.git)
+- d4tData (https://github.com/D4NTE98/d4tData.git)
+- d4tTarget (https://github.com/D4NTE98/d4tTarget.git)
+- d4tAdmin (https://github.com/D4NTE98/d4tAdmin.git)
+
 ---
 
 # Current Focus
